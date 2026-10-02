@@ -9,10 +9,9 @@
 
   <br/><br/>
 
-  <!-- Portfolio Badge -->
-  <a href="https://chanchalsharmaportfolio.streamlit.app/">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" alt="Portfolio" />
-  </a>
+ <a href="https://chanchalsharmaportfolio.streamlit.app/">
+  <img src="https://img.shields.io/badge/🌐_Explore_Portfolio-transparent?style=social&logo=streamlit&logoColor=FF4B4B" alt="Portfolio" />
+</a>
 
 </div>
 
