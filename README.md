@@ -1,29 +1,30 @@
-# Hi there! 👋 I'm Chanchal Sharma
+<div align="center">
 
-- 💼 My_Portfolio_Website: https://chanchalsharmaportfolio.streamlit.app/
-  
+  # Hi there! 👋 I'm Chanchal Sharma
 
+  <!-- Animated Typing Headline -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&lines=AI%2FML+%26+Software+Developer;Deep+Learning+%26+NLP+Enthusiast;C%2B%2B+%26+DSA+Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
 
----
+  <br/><br/>
 
-## 🚀 About Me
+  <!-- Portfolio Badge -->
+  <a href="https://chanchalsharmaportfolio.streamlit.app/">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" alt="Portfolio" />
+  </a>
 
-- 🌱 Currently learning Deep Learning, NLP, and Transformers
-- 💻 Solving Data Structures & Algorithms in C++
-- 🤖 Interested in AI/ML, Data Science, and Software Development
-- 📚 Always learning new technologies and improving my coding skills
-- 🎯 Goal: Secure an AI/ML or Software Engineering internship at a product-based company
+</div>
 
+<br/>
 
-
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/chanchal-sharma-6783232a8/
-- Email: chanchalsh931@gmail.com
+> 🎯 **Goal:** Securing an AI/ML or Software Engineering role at a high-impact, product-based company.
 
 ---
 
-⭐ Thank you for visiting my profile! Feel free to explore my repositories and connect with me.
+### 🚀 About Me
+
+```yaml
+Focus Areas: Deep Learning | NLP | Computer Vision | Backend Engineering
+Core Stack : C++ | Python | PyTorch | FastAPI | Streamlit
+Passions   : Algorithmic Problem Solving & Open Source Development
